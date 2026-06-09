@@ -1,4 +1,3 @@
-
 <img width="1433" height="702" alt="Screenshot 2026-06-09 at 11 04 52 PM" src="https://github.com/user-attachments/assets/b0d71597-8a72-4d5f-a98a-84f7f0b98e89" />
 ## EpiRNA
 
@@ -89,7 +88,7 @@ Run the tool directly from the command line using a raw sequence string:
 ##  Citation
 ** If you use EpiRNA-Scanner in your research, please cite our corresponding manuscript and this Zenodo repository:
 
-** Zam, et al. (2026). "EpiRNA-Scanner: Rapid, Length-Agnostic Mapping of m6A Motifs at Single-Nucleotide Resolution." [Target Journal/Conference Name].
+** Zaeem Ahmad Mansoori, et al. (2026). "EpiRNA-Scanner: Rapid, Length-Agnostic Mapping of m6A Motifs at Single-Nucleotide Resolution." [Target Journal/Conference Name].
 DOI: 10.5281/zenodo.20615778
 
 ## License
