@@ -1,13 +1,13 @@
 
 <img width="1433" height="702" alt="Screenshot 2026-06-09 at 11 04 52 PM" src="https://github.com/user-attachments/assets/b0d71597-8a72-4d5f-a98a-84f7f0b98e89" />
-# EpiRNA
+## EpiRNA
 
 
 
 # EpiRNA-Scanner
 **Rapid, Length-Agnostic Mapping of m6A Motifs at Single-Nucleotide Resolution**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Live%20Demo-blue)](https://huggingface.co/spaces/supzammy/EpiRNAh)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20615778.svg)](https://doi.org/10.5281/zenodo.20615778) [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Live%20Demo-blue)](https://huggingface.co/spaces/supzammy/EpiRNAh)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -89,7 +89,7 @@ Run the tool directly from the command line using a raw sequence string:
 ** If you use EpiRNA-Scanner in your research, please cite our corresponding manuscript and this Zenodo repository:
 
 ** Zam, et al. (2026). "EpiRNA-Scanner: Rapid, Length-Agnostic Mapping of m6A Motifs at Single-Nucleotide Resolution." [Target Journal/Conference Name].
-DOI: 10.5281/zenodo.XXXXXXX
+DOI: 10.5281/zenodo.20615778
 
 ## License
 
