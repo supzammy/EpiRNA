@@ -7,7 +7,7 @@
 # EpiRNA-Scanner
 **Rapid, Length-Agnostic Mapping of m6A Motifs at Single-Nucleotide Resolution**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20615778.svg)](https://doi.org/10.5281/zenodo.20615778) [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Live%20Demo-blue)](https://huggingface.co/spaces/supzammy/EpiRNAh)
+[![DOI](https://zenodo.org/badge/DOI/zenodo.20615778.svg)](https://doi.org/10.5281/zenodo.20615778) [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Live%20Demo-blue)](https://huggingface.co/spaces/supzammy/EpiRNAh)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
