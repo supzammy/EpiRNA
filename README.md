@@ -21,6 +21,8 @@ You can run EpiRNA-Scanner directly in your browser with zero local installation
 
 ---
 
+## Note on Model Weights: The pre-trained model weights (~300 MB) exceed GitHub's file size limits. Before running the engine locally, please download the epirna_model.h5 file from our Zenodo Repository and place it in the root directory.
+
 ## ✨ Key Features
 * **Length-Agnostic Architecture:** Process raw FASTA sequences ranging from 41 bp to **>100,000 bp** without manual tiling or tensor shape mismatch errors. (Benchmarked 100kb+ processing in ~110 seconds).
 * **Single-Nucleotide Resolution:** Extracts exact topological coordinates for the target Adenine within canonical `DRACH` motifs.
