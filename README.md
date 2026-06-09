@@ -7,7 +7,8 @@
 # EpiRNA-Scanner
 **Rapid, Length-Agnostic Mapping of m6A Motifs at Single-Nucleotide Resolution**
 
-[![DOI](https://zenodo.org/badge/DOI/zenodo.20615778.svg)](https://doi.org/10.5281/zenodo.20615778) [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Live%20Demo-blue)](https://huggingface.co/spaces/supzammy/EpiRNAh)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20615778.svg)](https://doi.org/10.5281/zenodo.20615778) 
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Live%20Demo-blue)](https://huggingface.co/spaces/supzammy/EpiRNAh)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -22,7 +23,7 @@ You can run EpiRNA-Scanner directly in your browser with zero local installation
 ---
 
 ## ✨ Key Features
-* **Length-Agnostic Architecture:** Process raw FASTA sequences ranging from 50 bp to **>100,000 bp** without manual tiling or tensor shape mismatch errors. (Benchmarked 100kb+ processing in ~4.12 seconds).
+* **Length-Agnostic Architecture:** Process raw FASTA sequences ranging from 41 bp to **>100,000 bp** without manual tiling or tensor shape mismatch errors. (Benchmarked 100kb+ processing in ~110 seconds).
 * **Single-Nucleotide Resolution:** Extracts exact topological coordinates for the target Adenine within canonical `DRACH` motifs.
 * **Homopolymer Stability:** Maintains a stable 0.0 baseline contrast in dense Poly-A/GC regions, eliminating false positives caused by local variance collapse.
 * **Zero-Disk NCBI Streaming:** Fetch and score transcripts directly from NCBI Entrez accession numbers without downloading genome files to your local drive.
@@ -35,7 +36,7 @@ To run EpiRNA-Scanner locally for reproducibility testing:
 
 1. **Clone the repository or extract the Zenodo archive:**
    ```bash
-   git clone [https://github.com/YourUsername/EpiRNA-Scanner.git](https://github.com/YourUsername/EpiRNA-Scanner.git)
+   git clone [https://github.com/supzammy/EpiRNA](https://github.com/supzammy/EpiRNA.git)
    cd EpiRNA-Scanner
 
 
