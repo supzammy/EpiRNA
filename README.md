@@ -3,7 +3,7 @@
 
 
 
-# EpiRNA-Scanner
+# EpiRNA-Scanner - old (Dont use it)
 **Rapid, Length-Agnostic Mapping of m6A Motifs at Single-Nucleotide Resolution**
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20615778.svg)](https://doi.org/10.5281/zenodo.20615778) 
